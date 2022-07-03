@@ -1,0 +1,25 @@
+{
+  "name": "advanced-nodejs",
+  "version": "1.0.0",
+  "description": "concepts related to nodejs learnings",
+  "main": "index.js",
+  "dependencies": {
+    "kafkajs": "^1.16.0",
+    "lodash": "^4.17.21",
+    "q": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parv-jain/advanced-nodejs.git"
+  },
+  "author": "Parv Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parv-jain/advanced-nodejs/issues"
+  },
+  "homepage": "https://github.com/parv-jain/advanced-nodejs#readme"
+}
